@@ -228,6 +228,7 @@ section {
     margin: 20px 0 40px;
     line-height: 1.7;
     max-width: 540px;
+    text-align: justify;
 }
 
 
@@ -296,7 +297,6 @@ section {
 
 .home-img {
     width: 400px;
-    mix-blend-mode: lighten;
     flex-shrink: 0;
     position: relative;
     z-index: 1;
@@ -325,6 +325,7 @@ section {
     max-width: 450px;
     height: auto;
     aspect-ratio: 3 / 4;
+    object-fit: cover;
     display: block;
 }
 
@@ -442,6 +443,7 @@ section {
     color: #d6e6f2;
     line-height: 1.8;
     margin-bottom: 20px;
+    text-align: justify;
 }
 
 .about-boxes {
